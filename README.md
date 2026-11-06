@@ -1,23 +1,27 @@
-<div align="center">
-
 # Hola, soy Lautaro 👋
 
-**Estudiante avanzado de Ingeniería Informática**
+**Estudiante avanzado de Ingeniería Informática** · Desarrollo web, datos y Linux.
 
-Desarrollo web · Datos y automatización · Linux
+Busco mi primera oportunidad en IT como junior, trainee o pasante, con modalidad remota desde Argentina.
 
-[Explorar mi portfolio](https://github.com/lautaromartin123/portfolio-ingenieria) · [English overview](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/docs/ABOUT-EN.md)
+**[Abrir el portfolio y sus códigos](https://github.com/lautaromartin123/portfolio-ingenieria)** · [English overview](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/docs/ABOUT-EN.md)
 
-</div>
+## Proyectos
 
-Estoy construyendo mi camino hacia mi primera oportunidad en IT. Me interesa entender problemas de negocio y convertirlos en soluciones que pueda explicar, probar y mejorar.
-
-Mi portfolio reúne proyectos personales, trabajos académicos y experimentos, con su alcance real y sus verificaciones documentadas. Incluye trabajo grupal y asistencia de IA; las muestras no se presentan como experiencia profesional ni como productos terminados.
-
-| Área | Muestras |
+| Proyecto | Qué explorar |
 | --- | --- |
-| Desarrollo web | [Consultorios](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/consultorios), [Trading Journal](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/trading-journal), [caso de estudio e-commerce](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/milagros-fabricantes) |
-| Datos y automatización | [Python y datos de mercado](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/senales-mercado), [análisis demográfico](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/analisis-demografico) |
-| Fundamentos | [Linux y C](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/sistemas-operativos), [prácticas C#](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/programacion-avanzada), [autómatas](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/teoria-del-lenguaje/automata-jflap) |
+| [Consultorios](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/consultorios) | [Pantallas C#](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/consultorios/Consultorios) · [Lógica](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/consultorios/BIZ) |
+| [Trading Journal](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/trading-journal) | [Interfaz](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/trading-journal/components/journal) · [Cálculos](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/desarrollo-web/trading-journal/lib/domain.ts) |
+| [Milagros Fabricantes](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/milagros-fabricantes) | Caso de estudio público de e-commerce |
+| [Bots BTC y SOL](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/senales-mercado) | [Código BTC](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/senales-mercado/src/btc.py) · [Código SOL](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/senales-mercado/src/sol.py) |
+| [Importador Excel](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/importador-excel) | [Normalización de datos](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/importador-excel/Services/ImportacionExcelService.cs) |
+| [Análisis demográfico](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/analisis-demografico) | [Script Python](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/analisis-demografico/scripts/calcular_regresion_ie.py) |
 
-Busco una oportunidad junior, trainee o de pasantía en IT, con modalidad remota desde Argentina.
+## Simulaciones y prácticas
+
+- **[Siete simulaciones Python, cada una con su código](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/experimentos)**: movimiento vertical, rebote, gravedad 3D y cuatro variantes de superficies.
+- **[Tres soluciones de C#](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/programacion-avanzada)**: eventos y estado web; consultas y filtros; registro y consultas.
+- **[Linux y C](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/sistemas-operativos)**: llamadas al sistema, archivos, redirección y prácticas de terminal.
+- **[Autómata JFLAP](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/facultad/teoria-del-lenguaje/automata-jflap)**: estados, transiciones y reconocimiento de cadenas.
+
+La colección reúne proyectos personales, ejercicios académicos y trabajo grupal con asistencia de IA. Cada muestra documenta su alcance, estado y [verificaciones](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/docs/VERIFICACION.md).
