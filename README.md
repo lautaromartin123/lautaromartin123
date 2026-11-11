@@ -15,7 +15,12 @@ Busco mi primera oportunidad en IT como junior, trainee o pasante, con modalidad
 | [Milagros Fabricantes](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/desarrollo-web/milagros-fabricantes) | Caso de estudio público de e-commerce |
 | [Bots BTC y SOL](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/senales-mercado) | [Código BTC](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/senales-mercado/src/btc.py) · [Código SOL](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/senales-mercado/src/sol.py) |
 | [Importador Excel](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/importador-excel) | [Normalización de datos](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/importador-excel/Services/ImportacionExcelService.cs) |
-| [Análisis demográfico](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/analisis-demografico) | [Script Python](https://github.com/lautaromartin123/portfolio-ingenieria/blob/main/proyectos/datos-y-automatizacion/analisis-demografico/scripts/calcular_regresion_ie.py) |
+
+## Estudio académico
+
+**[Envejecimiento poblacional de Boa Vista](https://github.com/lautaromartin123/portfolio-ingenieria/tree/main/proyectos/datos-y-automatizacion/analisis-demografico)**: investigación con datos censales del IBGE, análisis estadístico y contexto socioeconómico.
+
+**[Descargar el estudio completo en Word (.docx)](https://github.com/lautaromartin123/portfolio-ingenieria/raw/refs/heads/main/proyectos/datos-y-automatizacion/analisis-demografico/Estudio_envejecimiento_poblacional_Boa_Vista.docx)**.
 
 ## Simulaciones y prácticas
 
